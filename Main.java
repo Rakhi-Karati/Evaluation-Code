@@ -20,7 +20,6 @@ class Circle extends Shape {
     }
 }
 
-// Child class Rectangle
 class Rectangle extends Shape {
 
     double length, breadth;
